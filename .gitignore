@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+ENV/
+
+# JavaScript / Node / Web
+node_modules/
+dist/
+build/
+.npm/
+
+# Environment Variables & Secrets
+.env
+.env.local
+*.pem
+*.key
+
+# macOS System Files
+.DS_Store
+
+# IDE configs
+.vscode/
+.idea/
